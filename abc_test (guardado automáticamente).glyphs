@@ -72,23 +72,14 @@ unicode = 65;
 },
 {
 glyphname = B;
-lastChange = "2024-12-10 16:31:20 +0000";
 layers = (
 {
 layerId = m01;
-shapes = (
-{
-closed = 0;
-nodes = (
-(114,703,l)
-);
-}
-);
 width = 600;
 }
 );
 unicode = 66;
-changeCount = 3;
+changeCount = 2;
 },
 {
 glyphname = C;
